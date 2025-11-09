@@ -24,7 +24,7 @@ End-to-end 5-notebook pipeline: from raw data to RFM segmentation and review-ris
 📘 **[Statistics for Data Science Guide](https://github.com/Lucas-Ker/stats_for_data_science)**  
 Hands-on tutorial on hypothesis testing, simulation, and inference for decision-making.
 
-💼 **[Client Portfolio Hub](https://github.com/Lucas-Ker/lucas-ker-portfolio)**  
+💼 **[Portfolio Hub](https://github.com/Lucas-Ker/lucas-ker-portfolio)**  
 Professional deliverables — client-ready notebooks, 1-page executive reports, and reproducible pipelines.
 
 ---
