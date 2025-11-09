@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Lucas Ker
 
 **🎓 M.Sc. in Physics | 💻 Data Scientist.**
+
 **🔍 Specializing in statistical modeling, simulation, and predictive analytics.** 
+
 **🚀 Turning complex data into measurable impact.**
 
 ---
