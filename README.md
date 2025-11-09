@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hi, I'm Lucas Ker
 
-<!--
-**Lucas-Ker/Lucas-Ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 M.Sc. in Physics | 💻 Data Scientist.**
+**🔍 Specializing in statistical modeling, simulation, and predictive analytics.** 
+**🚀 Turning complex data into measurable impact.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core Expertise
+
+- **Machine Learning & Predictive Modeling:** Regression · Classification · Forecasting  
+- **Statistical Modeling:** Hypothesis Testing · Monte Carlo Simulation · Experimental Design  
+- **Data Analysis:** Python · Pandas · NumPy · SQL · Power BI
+
+---
+
+### 🚀 Featured Projects
+
+📊 **[Olist E-commerce Analysis](https://github.com/Lucas-Ker/olist-data-analysis-project)**  
+End-to-end 5-notebook pipeline: from raw data to RFM segmentation and review-risk prediction (~68% recall).
+
+📘 **[Statistics for Data Science Guide](https://github.com/Lucas-Ker/stats_for_data_science)**  
+Hands-on tutorial on hypothesis testing, simulation, and inference for decision-making.
+
+💼 **[Client Portfolio Hub](https://github.com/Lucas-Ker/lucas-ker-portfolio)**  
+Professional deliverables — client-ready notebooks, 1-page executive reports, and reproducible pipelines.
+
+---
+
+### 🧩 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+---
+
+### 🌍 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/lucas-ker)  
+- 📫 [Email](mailto:lucasker0107@gmail.com)  
+- 🧾 [Upwork](https://www.upwork.com/freelancers/~01570b8ebb7c97dbad)  
+- 📁 [Portfolio Repository](https://github.com/Lucas-Ker/lucas-ker-portfolio)
