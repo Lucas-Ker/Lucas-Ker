@@ -36,7 +36,6 @@ Professional deliverables — client-ready notebooks, 1-page executive reports, 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
