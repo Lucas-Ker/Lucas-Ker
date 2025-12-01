@@ -12,7 +12,7 @@
 
 - **Machine Learning & Predictive Modeling:** Regression · Classification · Forecasting  
 - **Statistical Modeling:** Hypothesis Testing · Monte Carlo Simulation · Experimental Design  
-- **Data Analysis:** Python · Pandas · NumPy · SQL · Power BI
+- **Data Analysis:** Python · Pandas · NumPy · SQL 
 
 ---
 
