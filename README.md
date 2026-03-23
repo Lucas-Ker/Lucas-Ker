@@ -1,28 +1,42 @@
 ## 👋 Hi, I'm Lucas Ker
 
-**🎓 M.Sc. in Physics | 💻 Data Scientist.**
+**💻 Data Scientist | 🎓 M.Sc. in Physics**
 
-**🔍 Specializing in statistical modeling, simulation, and predictive analytics.** 
-
-**🚀 Turning complex data into measurable impact.**
+I apply scientific rigor and advanced quantitative methods to solve complex business problems. My expertise lies in building end-to-end analytical solutions—from data engineering in cloud environments to deploying maintainable machine learning models.
 
 ---
 
 ### 🧠 Core Expertise
 
-- **Machine Learning & Predictive Modeling:** Regression · Classification · Forecasting  
-- **Statistical Modeling:** Hypothesis Testing · Monte Carlo Simulation · Experimental Design  
-- **Data Analysis:** Python · Pandas · NumPy · SQL 
+- **Machine Learning & Statistics:** Supervised & Unsupervised Learning · Hypothesis Testing · Statistical Inference · Monte Carlo Simulation · Experimental Design · Model Validation
+- **MLOps & Infrastructure:** Azure Databricks · CI/CD with Databricks Asset Bundles (DAB) · Version Control (Git/GitHub) · ETL Pipelines
+- **Programming & Libraries:** Python (Pandas · NumPy · Scikit-learn · PySpark · SciPy) · Spark SQL · SQL (Extraction & Analysis) · C++ (Scientific Frameworks/ROOT)
+- **Languages:** Portuguese (Native) · English (Advanced, C1) · Spanish (Professional, B2)
 
 ---
 
 ### 🚀 Featured Projects
 
+📈 **High-Precision Retention Modeling (Upwork)**
+Propensity modeling for a non-contractual E-commerce setting.
+
+**- The Challenge:** Developing a statistically robust framework for churn prediction in a "leaky bucket" scenario.
+
+**- The Solution:** Engineered an end-to-end pipeline with Random Forest and K-Means clustering. Achieved 77% precision (95% CI [0.73,0.81]) and a Mean ARI of 0.95.
+
+- Tech: Python (Scikit-learn, Statsmodels), LaTeX (IEEE-formatted manuscript).
+
 📊 **[Olist E-commerce Analysis](https://github.com/Lucas-Ker/olist-data-analysis-project)**  
-End-to-end 5-notebook pipeline: from raw data to RFM segmentation and review-risk prediction (~68% recall).
+Predicting customer dissatisfaction using 100k+ real-world transactions.
+
+**- Strategy:** Identified delivery promise accuracy as the main driver of negative reviews.
+
+**- Impact:** Built a Hybrid Segmentation model (RFM + K-Means) and a Random Forest classifier (68% Recall) for proactive customer intervention.
+
+**- Tech:** Python (Pandas, Scikit-learn, Seaborn)
 
 📘 **[Statistics for Data Science Guide](https://github.com/Lucas-Ker/stats_for_data_science)**  
-Hands-on tutorial: from the basic to ML.
+Hands-on implementation of core statistical principles, from probability distributions to advanced ML validation techniques.
 
 💼 **[Portfolio Hub](https://github.com/Lucas-Ker/lucas-ker-portfolio)**  
 Professional deliverables — client-ready notebooks, 1-page executive reports, and reproducible pipelines.
@@ -43,5 +57,4 @@ Professional deliverables — client-ready notebooks, 1-page executive reports, 
 
 - 💼 [LinkedIn](https://linkedin.com/in/lucas-ker)  
 - 📫 [Email](mailto:lucasker0107@gmail.com)  
-- 🧾 [Upwork](https://www.upwork.com/freelancers/~01570b8ebb7c97dbad)  
 - 📁 [Portfolio Repository](https://github.com/Lucas-Ker/lucas-ker-portfolio)
