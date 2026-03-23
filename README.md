@@ -20,20 +20,20 @@ I apply scientific rigor and advanced quantitative methods to solve complex busi
 📈 **High-Precision Retention Modeling (Upwork)**
 Propensity modeling for a non-contractual E-commerce setting.
 
-**- The Challenge:** Developing a statistically robust framework for churn prediction in a "leaky bucket" scenario.
+- **The Challenge:** Developing a statistically robust framework for churn prediction in a "leaky bucket" scenario.
 
-**- The Solution:** Engineered an end-to-end pipeline with Random Forest and K-Means clustering. Achieved 77% precision (95% CI [0.73,0.81]) and a Mean ARI of 0.95.
+- **The Solution:** Engineered an end-to-end pipeline with Random Forest and K-Means clustering. Achieved 77% precision (95% CI [0.73,0.81]) and a Mean ARI of 0.95.
 
-**- Tech:** Python (Scikit-learn, Statsmodels), LaTeX (IEEE-formatted manuscript).
+- **Tech:** Python (Scikit-learn, Statsmodels), LaTeX (IEEE-formatted manuscript).
 
 📊 **[Olist E-commerce Analysis](https://github.com/Lucas-Ker/olist-data-analysis-project)**  
 Predicting customer dissatisfaction using 100k+ real-world transactions.
 
-**- Strategy:** Identified delivery promise accuracy as the main driver of negative reviews.
+- **Strategy:** Identified delivery promise accuracy as the main driver of negative reviews.
 
-**- Impact:** Built a Hybrid Segmentation model (RFM + K-Means) and a Random Forest classifier (68% Recall) for proactive customer intervention.
+- **Impact:** Built a Hybrid Segmentation model (RFM + K-Means) and a Random Forest classifier (68% Recall) for proactive customer intervention.
 
-**- Tech:** Python (Pandas, Scikit-learn, Seaborn)
+- **Tech:** Python (Pandas, Scikit-learn, Seaborn)
 
 📘 **[Statistics for Data Science Guide](https://github.com/Lucas-Ker/stats_for_data_science)**  
 Hands-on implementation of core statistical principles, from probability distributions to advanced ML validation techniques.
