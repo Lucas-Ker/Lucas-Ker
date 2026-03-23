@@ -24,7 +24,7 @@ Propensity modeling for a non-contractual E-commerce setting.
 
 **- The Solution:** Engineered an end-to-end pipeline with Random Forest and K-Means clustering. Achieved 77% precision (95% CI [0.73,0.81]) and a Mean ARI of 0.95.
 
-- Tech: Python (Scikit-learn, Statsmodels), LaTeX (IEEE-formatted manuscript).
+**- Tech:** Python (Scikit-learn, Statsmodels), LaTeX (IEEE-formatted manuscript).
 
 📊 **[Olist E-commerce Analysis](https://github.com/Lucas-Ker/olist-data-analysis-project)**  
 Predicting customer dissatisfaction using 100k+ real-world transactions.
